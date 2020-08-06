@@ -1,6 +1,8 @@
 # Oi pessoal, Gabriela aqui</a> <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 
-Sou engenheira e adminsitradora, fascinada por tecnologia e resolução de problemas. Estou em transição de carreira, atualmente cursando Análise e Desenvolvimento de Sistemas e alguns cursos online nas horas vagas! Procurando oportunidades para continuar aprendendo código!
+Sou engenheira e adminsitradora, fascinada por tecnologia e resolução de problemas. Estou em transição de carreira, atualmente cursando Análise e Desenvolvimento de Sistemas e alguns cursos online nas horas vagas! 
+
+Procurando oportunidades para continuar aprendendo programar! 
 
 <br/>👷 Atuamente trabalho na área administrativa
 <br/>🎓 Estou cursando Análise e Desenvolvimento de Sistemas (Impacta)
