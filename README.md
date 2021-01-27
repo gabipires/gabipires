@@ -4,11 +4,11 @@ Sou engenheira e adminsitradora, fascinada por tecnologia e resolução de probl
 
 Procurando oportunidades para continuar aprendendo programar! 
 
-<br/>👷 Atuamente trabalho na área administrativa
+<br/>👷 Estagiária como desenvolvedora de software
 <br/>🎓 Estou cursando Análise e Desenvolvimento de Sistemas (Impacta)
-<br/>🚀 Buscando mais conhecimento nas horas, minutos e segundos vagos com os cursos da Rocketseat
+<br/>🚀 Buscando mais conhecimento nas horas, minutos e segundos vagos!
 <br/>💻 Estudei um pouquinho de Python, Django e SQL
-<br/>💛 Meu foco de estudos atual: JavaScript, React JS, Reactive Native, Node.js
+<br/>💛 Meu foco de estudos atual: Java, JavaScript e Angular
 <br/>💬 Sobre mim: adoro tecnologia, séries do Netflix, PS4 e jiu jitsu!
 <br/>📮 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GabrielaPires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabipires/)](https://www.linkedin.com/in/gabipires/) 
 | 
