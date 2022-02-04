@@ -1,4 +1,4 @@
-# Oi pessoal, Gabriela aqui</a> <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
+# Oi pessoal, Gabi aqui</a> <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 
 Sou desenvolvedora, engenheira e adminsitradora, fascinada por tecnologia e resolução de problemas! Iniciei minha trajetória profissional como engenheria florestal e de alguns pra cá fiz minha transição de carreira para a área de tecnologia!
 
